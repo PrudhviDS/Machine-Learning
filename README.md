@@ -1,2 +1,2 @@
-# Prudhvi-
+# Machine Learning-
 Data science
